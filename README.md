@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 #### Github trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=thebugbounter&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=simar437&theme=juicyfresh&no-bg=true" />
 
 ### 1 Joke please
 
@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 ### Profile visits
 
-<img src="https://komarev.com/ghpvc/?username=thebugbounter&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=simar437&color=brightgreen" alt="watching_count" />
