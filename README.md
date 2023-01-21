@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### My github stats
 
-![SIMAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=thebugbounter&show_icons=true&theme=radical)
+![SIMAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=simar437&show_icons=true&theme=radical)
 
 #### Total contribution
 
