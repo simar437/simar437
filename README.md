@@ -14,7 +14,7 @@
 ### Connect me over social media
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ "LinkedIn") 
 
-### My github stats
+### My Github stats
 
 ![SIMAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=simar437&show_icons=true&theme=tokyonight)
 
