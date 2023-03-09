@@ -1,12 +1,12 @@
 ### Hi 👋 My name is SIMAR,
 
-🔭 I’m currently working on Android
+🔭 I’m currently working on Natural Launguage Processing
 
 🌱 I’m currently learning Kotlin
 
 👯 I’m looking to collaborate on Opensource projects
 
-🤔 I’m looking for help with How OpenAI works
+🤔 I’m looking for help with how GPT3 works
 
 💬 Ask me about Programming  
 
