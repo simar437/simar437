@@ -12,7 +12,7 @@
 
 📫 How to reach me: simarjitsingharora437@gmail.com
 ### Connect me over social media
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ "LinkedIn") 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/simarjit-singh-7a7b611b5/ "LinkedIn") 
 
 ### My Github stats
 
